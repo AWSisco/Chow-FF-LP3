@@ -12,7 +12,10 @@ The method described by Chow is contained in the function ```chow_ff_lp3``` defi
 
 ```
 $ python compute_samples.py
-
+		5 years	50 years
+Victoria, TX	41149	122143
+Mt Carmel, IL	201426	298373
+Whitesburg, AL	253013	313311
 ```
 
 The values returned for Victoria, TX, are within 1% of those reported in Chow Example 12.3.3.
