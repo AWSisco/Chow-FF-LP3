@@ -27,5 +27,5 @@ $$ T = \frac{n+1}{m}$$
 For each site, estimated annual maximum discharges using the frequency factor method are shown below along with the plotting positions.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/37667176/210648428-578e8e02-4f2a-4864-a1cb-310390f222e1.png" width=55% height=55%>
+  <img src="https://user-images.githubusercontent.com/37667176/210648428-578e8e02-4f2a-4864-a1cb-310390f222e1.png" width=65% height=65%>
 </p>
