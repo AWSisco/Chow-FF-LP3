@@ -8,7 +8,7 @@ Three analyses are performed using annual maximum discharges for the following:
 2. Wabash River at Mt. Carmel, IL, from [USGS gage 03377500](https://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=03377500) (141 years)
 3. Tennessee River at Whitesburg, AL, from [USGS gage 03575500](https://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=03575500) (81 years)
 
-The method described by Chow is contained in the function ```chow_ff_lp3``` defined in ```chow_ff_lp3.py```. The 5- and 50-yr annual maximum discharges in cubic feet per second (cfs) for the three sample records using ```compute_samples.py```.
+The method described by Chow is defined in ```chow_ff_lp3.py``` and can be used by calling the fuction ```chow_ff_lp3```. To demonstrate, the 5- and 50-yr annual maximum discharges for the three sample records are estimated using ```compute_samples.py```.
 
 ```
 $ python compute_samples.py
@@ -26,4 +26,4 @@ $$ T = \frac{n+1}{m}$$
 
 For each site, estimated annual maximum discharges using the frequency factor method are shown below along with the plotting positions.
 
-![three_sites](plots/flood_frequency_3sites.png)
+![three_sites](plots/flood_frequency_3sites.png | width=300)
