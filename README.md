@@ -1,6 +1,6 @@
 # Chow-FF-LP3
 
-This repository demonstrates frequency analysis using frequency factors and the log-Pearson Type III distribution as described in [Chow et al. *Applied Hydrology* (1988)](http://ponce.sdsu.edu/Applied_Hydrology_Chow_1988.pdf).
+This repository demonstrates frequency analysis using frequency factors and the log-Pearson Type III distribution as described in [Chow et al. Applied Hydrology (1988)](http://ponce.sdsu.edu/Applied_Hydrology_Chow_1988.pdf) Section 12.3.
 
 Three analyses are performed using annual maximum discharges for the following:
 
@@ -21,5 +21,6 @@ The empirical plotting position can be computed using:
 
 $$ T = \frac{n+1}{m}$$
 
-The frequency factor method and plotting position for each record are plotted below.
+For each site, estimated annual maximum discharges using the frequency factor method are shown below along with the plotting positions.
 
+![three_sites](plots/flood_frequency_3sites.png)
