@@ -19,6 +19,6 @@ The values returned for Victoria, TX, are within 1% of those reported in Chow Ex
 
 The empirically-derived plotting position is can be computed using:
 
-$$ T = {n+1} \over m$$ 
+$$ T = \frac{n+1}{m}$$ 
 
 
