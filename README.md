@@ -15,4 +15,4 @@ $ python compute_samples.py
 
 ```
 
-The values returned for Victoria, TX, are within $\pm$1% of those reported in Chow Example 12.3.3.
+The values returned for Victoria, TX, are within $\pm$ 1% of those reported in Chow Example 12.3.3.
