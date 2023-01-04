@@ -15,4 +15,10 @@ $ python compute_samples.py
 
 ```
 
-The values returned for Victoria, TX, are within $\pm$ 1% of those reported in Chow Example 12.3.3.
+The values returned for Victoria, TX, are within 1% of those reported in Chow Example 12.3.3.
+
+The empirically-derived plotting position is can be computed using:
+
+$$ T = {n+1} \over m$$ 
+
+
