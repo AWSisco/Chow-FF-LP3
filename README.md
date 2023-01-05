@@ -14,11 +14,11 @@ The method described by Chow is defined in ```chow_ff_lp3.py``` and can be used 
 $ python compute_samples.py
 		5 years	50 years
 Victoria, TX	41149	122143
-Mt Carmel, IL	201426	298373
+Mt. Carmel, IL	201426	298373
 Whitesburg, AL	253013	313311
 ```
 
-The values returned for Victoria, TX, are within 1% of those reported in [Chow]((http://ponce.sdsu.edu/Applied_Hydrology_Chow_1988.pdf) Example 12.3.3 (page 394).
+The values returned for Victoria, TX, are within 1% of those reported in [Chow](http://ponce.sdsu.edu/Applied_Hydrology_Chow_1988.pdf) Example 12.3.3 (page 394).
 
 The empirical plotting position can be computed using:
 
@@ -26,7 +26,7 @@ $$ T = \frac{n+1}{m}$$
 
 where *n* is the number of years in the record and *m* is the rank of each value in a list ordered by descending magnitude.
 
-For each site, discharges for a range of return periods are estimated using the frequency factor method. The plotting positions are shown for reference.
+For each site, discharges for a range of return periods are estimated using the frequency factor method and plotted below (solid lines). The plotting positions are shown for reference.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/37667176/210648428-578e8e02-4f2a-4864-a1cb-310390f222e1.png" width=65% height=65%>
